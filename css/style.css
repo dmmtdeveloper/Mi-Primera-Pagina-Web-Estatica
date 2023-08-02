@@ -259,8 +259,8 @@ body {
 
 
 .footer__title {
-    font-size: 1.5em;
-    padding-bottom: 1em;
+    font-size: 1.6em;
+    padding-bottom: 0.3em;
 }
 
 .footer__paragraph {
@@ -305,7 +305,12 @@ body {
 }
 
 .footer__paragraph {
-    font-size: 0.8em;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+.footer__lorem{
+    font-size: 1em;
     line-height: 1.5em;
 }
 
